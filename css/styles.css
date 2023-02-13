@@ -401,7 +401,6 @@ img {
 .footer-block-left {
   display: block;
   width: 264px;
-  height: 72px;
   margin-right: 120px;
 }
 
@@ -715,11 +714,6 @@ img {
 .modal-close-btn-icon {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-/* 
-.modal-form {
-  display: flex;
-  flex-direction: column;
-} */
 
 .modal-form-text {
   display: block;
